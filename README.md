@@ -13,5 +13,5 @@ But I created class correlation diagram.
 
 Click [here](https://qiita.com/shinmura0/items/74917f13c747b79f8f3f) for details(Japanese).
 
-# Data cmpression
+# Data compression
 
